@@ -1,12 +1,13 @@
 {
+  
   "keys": [
-    {
-      "kty": "RSA",
-      "use": "sig",
-      "kid": "wellstar-sandbox-key-1",
-      "alg": "RS256",
-      "n": "tdoo016hHWiFEbNNyaBXyLYfEvxUQxKFcaBaaimAa98CR4jS9fDVk-oYmnfaZmfeeq-0Ue9EymJnmnH81C60N4Rnc77kgXyYgxK5bJz-jycN2Uasv9AyscvuB-QJwYQ5mIzdmbnMlarHJpTdVSnUSZhf6sTQOFT8GcdvZwMFtNiwV-I2F2bB_QcoyOYMe0Ar1Evi9S2oteIHkm2dOlZ_umi3eeSrtqfLCU79o1Hcr7vNwE1ccYhYacFwOdexoMmELqjBt4OkxUFfXpvqCMiU2lY2DcAXf1dK9_98OX5rd9VF1AdDKyz2KZQAtNnTI3puX6-tzAMUDhj000fDBewMnQ",
-      "e": "AQAB"
-    }
+      {
+          "kty": "RSA",
+          "use": "sig",
+          "kid": "jwks-private-key",
+          "alg": "RS256",
+          "n": "xEZH14glxqM9Wmv3TOxUzTBiEsfhymfyNVFa99j0ycaQM0N_CCLPpZiWAw9cFb79NReyp9CyxTCnGcK_UVZU0rP8RVb9cmDXehw1YmXwj08gzYadoBx3YLS026SpvJYqR230sq0Lk1j6eKzlxfrKsitb0pr2bm84cW223ZGCdoYd9LTSzqdco5MU89hhwdGOErCM_PUGA8w8xpyyxfhjp79j_x44H7Jng4Ujrf1uncd_3rQqrHmRRaL6gyhjIYkVALhBego5B6-ZqHTH44F3jA-XSkP8qNnAgJbAVOcqXbuCkQwCYSYf2Fxr6Fj3vHuVcl7P27iYIl11_68gEFLrGw",
+          "e": "AQAB"
+      }
   ]
 }
